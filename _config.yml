@@ -84,7 +84,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: //i0.hdslb.com/bfs/article/79486b02c1fcf1730d4fe2f880bb8ec7ec41e955.jpg@942w_942h_progressive.webp
+  img: "https://imgsa.baidu.com/forum/w%3D580/sign=1a463769f803738dde4a0c2a831ab073/ee3a1e385343fbf21156eeeabe7eca8064388f63.jpg"
   effect: false
 
 # Disable all banner image
